@@ -1,10 +1,10 @@
-<button name="button" onclick="http://www.google.com">Click me</button>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GhostMajik/ghostmajik.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+<button name="button" onclick="http://www.google.com">Click me</button>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
