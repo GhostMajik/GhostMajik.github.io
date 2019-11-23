@@ -1,8 +1,10 @@
 title: Colin Pugh Portfolio
 author: GhostMajik
-show_downloads: true
+github_username: GhostMajik
+description: Colin Pugh Game Developer Portfolio
 
   
-  
+ #Build Settings 
 theme: jekyll-theme-cayman
+show_downloads: true
   
