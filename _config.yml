@@ -1,2 +1,8 @@
-theme: jekyll-theme-cayman
+title: Colin Pugh Portfolio
+author: GhostMajik
 show_downloads: true
+social_links:
+  github: jekyll
+  
+theme: jekyll-theme-cayman
+  
