@@ -11,6 +11,10 @@ $(function(){
 			$('body').addClass('border-dark');
 		}
 	}
+	if (!("ontouchstart" in document.documentElement)) {
+	document.documentElement.className += " no-touch";
+	}		
+	
 	
 	/*=========================================================================
 		Magnific Popup (Project Popup initialization)
